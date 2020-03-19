@@ -76,5 +76,4 @@ int main(int argc, char** argv)
     server.stop();
 
     cap.release();
-    cv::destroyAllWindows();
 }
